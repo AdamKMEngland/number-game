@@ -3,7 +3,7 @@
 # The computer will generate a number
 import random
 
-computer_guess = random.randInt(0,10)
+computer_guess = random.randint(0,10)
 print(computer_guess)
 # The human will gues a number 
 
